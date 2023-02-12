@@ -1,3 +1,3 @@
 # public-repo
 
-테스트를 위한 public repository 입니다.
+Github organization 가입 신청: https://forms.gle/xTmW3rBuPDS8eWVNA
